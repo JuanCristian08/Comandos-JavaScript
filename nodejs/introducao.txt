@@ -1,0 +1,10 @@
+node js é um framework javascript para rodar js fora do navegador
+permite criar módulos, classes, usar pacotes externos e etc
+
+DIFERENÇAS                                  NAVEGADOR               NODEJS
+DOM(manipulação de elementos html)            |SIM                   |NÃO
+WINDOW(objeto disponível apenas no navegador) |SIM                   |NÃO
+CONSOLE.LOG                                   |SIM                   |SIM
+REQUIRE (IMPORTAR ARQUIVOS EXTERNOS)          |NÃO                   |SIM
+FS (LEITURA DE ARQUIVOS)                      |NÃO                   |SIM
+HTTP(hipertext transfer protocol)             |NÃO                   |SIM
