@@ -5,3 +5,7 @@ let funcao = function() {
 
 //chamando a função
 funcao();
+
+let anonima = function() {
+    console.log("essa é uma função anônima");
+}
